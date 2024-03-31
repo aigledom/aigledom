@@ -10,7 +10,7 @@ My academic background in the Web Application Development and Multiplatform Appl
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aigledom&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ÁlexIglesiasDomínguez](https://www.linkedin.com/in/%C3%A1lex-iglesias-dom%C3%ADnguez-927765200/))  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexiglesiaas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lex-iglesias-dom%C3%ADnguez-927765200/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexiglesiaas)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aigledom&icon=0&color=0)](https://visitcount.itsvg.in)
